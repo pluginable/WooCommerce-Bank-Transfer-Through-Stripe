@@ -10,3 +10,6 @@ Once the funds have been successfully deposited into the designated virtual acco
 - Transfer In-person Bank Branch Option
 - Protection of Real Account Details
 - Automatically change order status to ‘processing’ once payment is cleared
+
+## Demo
+<a target="_blank" href="https://www.pluginable.io/demo/stripe-bank-transfer">Click here for demo</a>
